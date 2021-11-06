@@ -174,3 +174,10 @@ td {
   height: 300px;
   border-radius: 30%;
 }
+.fotomichael {
+    display: block;
+    margin: 0 auto;
+    width: 270px;
+    height: 300px;
+    border-radius: 30%;
+  }
