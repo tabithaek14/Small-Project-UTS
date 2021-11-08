@@ -85,7 +85,6 @@ td {
   width: 1000px;
   margin: 0 auto;
   text-align: justify;
-  border: 1px solid black;
   border-collapse: collapse;
   padding: 5px 35px;
   color: #fffcea;
@@ -106,7 +105,7 @@ h2 {
   text-transform: uppercase;
 }
 .footer {
-  position: relative;
+  position: fixed;
   bottom: 0px;
   background-color: #a393eb;
 }
@@ -162,10 +161,16 @@ td {
   width: 1100px;
   margin: 0 auto;
   text-align: justify;
-  /*border: 1px solid black;*/
+
   border-collapse: collapse;
   padding: 5px 35px;
   color: #fffcea;
+}
+h3 {
+  text-align: center;
+}
+.ig {
+  text-align: center;
 }
 .fototabitha {
   display: block;
@@ -175,9 +180,16 @@ td {
   border-radius: 30%;
 }
 .fotomichael {
-    display: block;
-    margin: 0 auto;
-    width: 270px;
-    height: 300px;
-    border-radius: 30%;
-  }
+  display: block;
+  margin: 0 auto;
+  width: 270px;
+  height: 300px;
+  border-radius: 30%;
+}
+.fotoegi {
+  display: block;
+  margin: 0 auto;
+  width: 270px;
+  height: 300px;
+  border-radius: 30%;
+}
